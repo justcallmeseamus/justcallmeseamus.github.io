@@ -1,0 +1,144 @@
+* {
+    border: 0px solid red !important;
+    
+}
+ 
+ *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@media only print and (max-width:500px)
+{
+    p{
+        display:none;
+    }
+}
+
+p{
+    padding: 10px;
+    
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 2000px;
+    width: 100%;
+   
+}
+.row{
+    width:100%;
+    margin-bottom:5px;
+    display: flex;
+}
+
+
+}
+.col-1{
+    width:25%;
+    
+    }
+.col-2{
+    width:50%;
+}
+.col-2D{
+    width:50%;
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1170607.jpg);
+    
+}
+.col-3{
+    width:75%;
+}
+.col-4{
+    width:100%;
+}
+body{
+    background-color: white;
+}
+p{
+    background-color: white;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 17px;
+    font-size: 20px;
+    
+}
+
+li a:hover {
+    background-color: mediumvioletred;
+}
+h1{
+    font-style: italic;
+    font-size:50px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+h6{
+ font-size: 75px;
+ font-style: italic;
+ font-family: fantasy;
+color: black;
+    padding: 150px 150px;
+}
+.black{
+   
+    background-color: black;
+    color:white;
+    
+}
+.fancyfont{
+    
+    padding: 15px 17px;
+    font-size: 40px;
+    
+}
+h4{
+ font-size: 75px;
+ font-style: italic;
+ font-family: fantasy;
+color: white;
+    padding: 100px 50px;
+}
+.quasar{
+    background-image:url(http://a1star.com/images/00-star-space-hubble-tile7.jpg);
+    color:white;
+   
+}
+.paradox{
+    background-image: url(http://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p122_i25_w2165.jpeg)
+        ;
+   
+    
+}
+.disciples{
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1170607.jpg)
+}
+.fill{
+    background-image: url(http://68.media.tumblr.com/5e961ccc8dda5859ef1d1ff488b12dfe/tumblr_inline_mkjkvmo1Kl1qz4rgp.png)
+}
+h3{
+    font-size: 40px;
+    
+}
