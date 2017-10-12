@@ -45,7 +45,7 @@ p{
 }
 .col-2D{
     width:50%;
-    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1170607.jpg);
+    background-image: url(https://i.pinimg.com/236x/a2/f0/e8/a2f0e809906a05f142f19d3373b7b03c--cross-wallpaper-tumblr-wallpaper.jpg);
     
 }
 .col-3{
@@ -57,12 +57,7 @@ p{
 body{
     background-color: white;
 }
-p{
-    background-color: white;
-    font-style: italic;
-    font-size: 20px;
-    
-}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -100,7 +95,7 @@ h6{
  font-style: italic;
  font-family: fantasy;
 color: black;
-    padding: 150px 150px;
+    padding: 100px 50px;
 }
 .black{
    
@@ -121,7 +116,7 @@ h4{
 color: white;
     padding: 100px 50px;
 }
-.quasar{
+.astromic{
     background-image:url(http://a1star.com/images/00-star-space-hubble-tile7.jpg);
     color:white;
    
@@ -133,12 +128,13 @@ color: white;
     
 }
 .disciples{
-    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1170607.jpg)
+    background-image: url(https://i.pinimg.com/236x/a2/f0/e8/a2f0e809906a05f142f19d3373b7b03c--cross-wallpaper-tumblr-wallpaper.jpg)
 }
-.fill{
-    background-image: url(http://68.media.tumblr.com/5e961ccc8dda5859ef1d1ff488b12dfe/tumblr_inline_mkjkvmo1Kl1qz4rgp.png)
-}
+
 h3{
     font-size: 40px;
     
+}
+b{
+    background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/857/full/tileable-classic-nebula-space-patterns-8.jpg)
 }
